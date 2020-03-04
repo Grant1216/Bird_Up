@@ -2,7 +2,8 @@
 
 - Project Title
 - Description
-- How to create a repository 
+- How to Create a Repository 
+- How to Create a Branch
 - Additional Documentation 
 - Versioning 
 
@@ -13,7 +14,7 @@ Choose this because The University of Iowa's mascot is a bird (tigerhawk)
 ## Description 
 This is a practice run/excerise of using Github by setting up a sample repository. This barely scratches the surface and is meant to be an introduction to Github 
 
-## How to create a repository 
+## How to Create a Repository 
 A repository contains project files. This is where you can store/organize projects and update them as you work. 
 To create a repository follow these steps:
 1. Click the + next to your profile icon in the top right 
@@ -21,11 +22,16 @@ To create a repository follow these steps:
 3.Click **Initialize this repository with a README**
 4. Click **Create Repository**
 
-## How to create a branch 
+## How to Create a Branch 
 Branching is a way to work on different versions of a repository at once. You can use branches to experiment/make edits before making final changes to your **Master** branch (this is the orginal file is created in your repository)
 To create a branch:
 1. In your repository, click **branch:master**
 2. Enter desired name to a branch 
 3. Click **Create branch**
 
+## Additonal Documentation 
+In future projects you will want to include additional information and documentation so that others will be able to follow along. 
+
+## Versioning
+In future projects it is also improtant to include not only what software you are using, but also the versions. There are many differences in versions of coding/analytic languages and softwares. Important that others know what was specifically used
 
