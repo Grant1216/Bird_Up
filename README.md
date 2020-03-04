@@ -30,8 +30,8 @@ To create a branch:
 3. Click **Create branch**
 
 ## Additonal Documentation 
-In future projects you will want to include additional information and documentation so that others will be able to follow along. 
+In future projects you will want to include additional information and documentation relevant to ones project. This allows others to follow along and understand how you came to the specific outcome. 
 
 ## Versioning
-In future projects it is also improtant to include not only what software you are using, but also the versions. There are many differences in versions of coding/analytic languages and softwares. Important that others know what was specifically used
+In future projects it is also important to include not only what software you are using, but also the version. There are many differences in versions of coding/analytic languages and softwares. Important that others know what was specifically used.
 
