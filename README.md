@@ -19,7 +19,7 @@ A repository contains project files. This is where you can store/organize projec
 To create a repository follow these steps:
 1. Click the + next to your profile icon in the top right 
 2. Decide on a name & description. Also if you would like it be public/private
-3.Click **Initialize this repository with a README**
+3. Click **Initialize this repository with a README**
 4. Click **Create Repository**
 
 ## How to Create a Branch 
